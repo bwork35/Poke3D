@@ -99,11 +99,11 @@
 		9356D222258B0F3600C44CA2 /* Poke3D */ = {
 			isa = PBXGroup;
 			children = (
-				9356D223258B0F3600C44CA2 /* AppDelegate.swift */,
-				9356D225258B0F3600C44CA2 /* art.scnassets */,
 				9356D227258B0F3600C44CA2 /* ViewController.swift */,
 				9356D229258B0F3600C44CA2 /* Main.storyboard */,
+				9356D225258B0F3600C44CA2 /* art.scnassets */,
 				9356D22C258B0F3A00C44CA2 /* Assets.xcassets */,
+				9356D223258B0F3600C44CA2 /* AppDelegate.swift */,
 				9356D22E258B0F3A00C44CA2 /* LaunchScreen.storyboard */,
 				9356D231258B0F3A00C44CA2 /* Info.plist */,
 			);
